@@ -2,3 +2,4 @@ pandas
 scipy
 plotly
 geopy
+nbformat>=4.2.0
